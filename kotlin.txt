@@ -1,4 +1,2 @@
-Nombre
-de
-usuario:
-YepiiCode
+Nombre de usuario: YepiiCode
+Correo de usuario: yhescalante@soy.sena.edu.co
